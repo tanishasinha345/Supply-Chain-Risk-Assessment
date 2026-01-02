@@ -82,7 +82,16 @@ Target Users: Operations managers, Procurement teams
 Features: Cross-filtering, drill-through pages, bookmarks for scenarios, synced slicers across all pages
 
 🔍 Key Findings
-FindingImpactRecommendation68% high-risk suppliers$998M revenue exposure; single failures = $10-30M lossLaunch emergency supplier audit; establish dual-source strategy for critical items within 90 daysGeographic concentration (84% in Asia-Europe)Regional disruption could cripple 80%+ of supply chainRebalance to 30% Asia, 25% Europe, 30% Americas, 15% Other within 12 monthsDelivery crisis (7.94% vs 90% target)$10-15M annual costs in penalties, expediting, lost salesImplement supplier performance tiers; deploy predictive model for proactive planningTop risk drivers: Geographic (6.36), Financial (6.30), Single-source (5.93)Account for 60%+ of total riskStrategic network redesign focusing on diversification and supplier financial supportQ4 performance degradation$5-8M predictable Q4 lossesBuild inventory in Q3; pre-position safety stock; increase Q4 supplier monitoring
+
+
+| **Finding** | **Impact** | **Recommendation** |
+|------------|-----------|-------------------|
+| **68% high-risk suppliers** | $998M revenue exposure; single failures = $10–30M loss | Launch emergency supplier audit; establish dual-source strategy for critical items within 90 days |
+| **Geographic concentration (84% in Asia–Europe)** | Regional disruption could cripple 80%+ of supply chain | Rebalance to 30% Asia, 25% Europe, 30% Americas, 15% Other within 12 months |
+| **Delivery crisis (7.94% vs 90% target)** | $10–15M annual costs in penalties, expediting, lost sales | Implement supplier performance tiers; deploy predictive model for proactive planning |
+| **Top risk drivers: Geographic (6.36), Financial (6.30), Single-source (5.93)** | Account for 60%+ of total risk | Strategic network redesign focusing on diversification and supplier financial support |
+| **Q4 performance degradation** | $5–8M predictable Q4 losses | Build inventory in Q3; pre-position safety stock; increase Q4 supplier monitoring |
+
 
 💡 Strategic Recommendations
 Immediate (0-3 Months) - $5M Investment
@@ -121,8 +130,15 @@ Value Creation: $190-310M over 3 years (risk reduction, cost savings, revenue pr
 ROI: 420-690% on $30-45M investment
 Stakeholder Buy-In: Unanimous executive approval for Phase 1 implementation
 
-Key Metrics Tracking
-MetricBaselineTarget (12 Months)StatusDelivery Performance7.94%85%🔴 To ImproveAvg Delay Days6.753.0🔴 To ImproveHigh-Risk Suppliers %68%45%🔴 To ImproveSupply Chain Health1.47K (50%)2.2K (75%)🔴 To ImprovePrediction Accuracy91.79%93%🟢 Achieved
+📊 Key Metrics Tracking
+
+| **Metric** | **Baseline** | **Target (12 Months)** | **Status** |
+|-----------|-------------|-----------------------|-----------|
+| **Delivery Performance** | 7.94% | 85% | 🔴 To Improve |
+| **Avg Delay Days** | 6.75 | 3.0 | 🔴 To Improve |
+| **High-Risk Suppliers %** | 68% | 45% | 🔴 To Improve |
+| **Supply Chain Health** | 1.47K (50%) | 2.2K (75%) | 🔴 To Improve |
+| **Prediction Accuracy** | 91.79% | 93% | 🟢 Achieved |
 
 🎓 Skills Demonstrated
 Technical: Excel (XLOOKUP, SUMIFS, Power Query), Power BI (DAX, data modeling), Statistical Analysis, Predictive Modeling, Data Visualization
@@ -147,9 +163,6 @@ ESG/Sustainability metrics integration
 ✅ Delivered $190-310M value case with 420-690% ROI
 ✅ Secured executive approval for $30-45M investment
 ✅ Provided actionable roadmap for supply chain transformation
-
-
-
 
 
 This project demonstrates end-to-end data analytics capabilities: from problem definition and data analysis to predictive modeling, dashboard creation, and strategic recommendations with quantified business impact.
