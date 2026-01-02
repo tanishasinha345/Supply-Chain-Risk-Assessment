@@ -1,0 +1,101 @@
+SupplierID,SupplierName,Country,Region,Latitude,Longitude,SupplierType,YearsInBusiness,CertificationScore,AnnualCapacity,LeadTimeDays,PaymentTerms
+SUP001,Global Materials Inc,China,Asia,31.2304,121.4737,Raw Materials,15,85,500000,45,Net30
+SUP002,EuroComponents Ltd,Germany,Europe,52.5200,13.4050,Components,22,92,350000,28,Net45
+SUP003,AmeriParts Corp,United States,North America,40.7128,-74.0060,Components,18,88,420000,21,Net60
+SUP004,AsiaLogistics Co,Singapore,Asia,1.3521,103.8198,Logistics,12,78,280000,35,Net30
+SUP005,AfricaSupply Group,South Africa,Africa,-33.9249,18.4241,Raw Materials,8,65,150000,52,Net45
+SUP006,IndiaManufacturing,India,Asia,19.0760,72.8777,Manufacturing,10,72,380000,42,Net30
+SUP007,BrazilResources SA,Brazil,South America,-23.5505,-46.6333,Raw Materials,14,70,220000,48,Net45
+SUP008,UKDistribution Ltd,United Kingdom,Europe,51.5074,-0.1278,Logistics,25,95,310000,18,Net30
+SUP009,JapanTech Systems,Japan,Asia,35.6762,139.6503,Components,20,90,400000,25,Net45
+SUP010,MexicoParts SA,Mexico,North America,19.4326,-99.1332,Manufacturing,9,68,270000,32,Net30
+SUP011,AustraliaMining Co,Australia,Oceania,-33.8688,151.2093,Raw Materials,16,82,290000,38,Net45
+SUP012,CanadaSupplies Inc,Canada,North America,43.6532,-79.3832,Components,19,86,360000,24,Net45
+SUP013,FranceLogistics SA,France,Europe,48.8566,2.3522,Logistics,11,75,195000,30,Net30
+SUP014,ThaiComponents Ltd,Thailand,Asia,13.7563,100.5018,Manufacturing,7,63,240000,44,Net30
+SUP015,ItalyMaterials SpA,Italy,Europe,41.9028,12.4964,Raw Materials,13,80,265000,33,Net45
+SUP016,KoreaElectronics Co,South Korea,Asia,37.5665,126.9780,Components,17,87,385000,27,Net45
+SUP017,SpainDistribution SA,Spain,Europe,40.4168,-3.7038,Logistics,10,73,175000,31,Net30
+SUP018,VietnamManufacture,Vietnam,Asia,21.0285,105.8542,Manufacturing,6,60,210000,46,Net30
+SUP019,PolandParts Sp,Poland,Europe,52.2297,21.0122,Components,8,71,235000,36,Net30
+SUP020,IndonesiaSupply PT,Indonesia,Asia,-6.2088,106.8456,Raw Materials,5,58,180000,50,Net30
+SUP021,TurkeyLogistics AS,Turkey,Europe,41.0082,28.9784,Logistics,12,76,205000,34,Net30
+SUP022,MalaysiaComponents,Malaysia,Asia,3.1390,101.6869,Manufacturing,9,69,255000,40,Net30
+SUP023,ChileResources SA,Chile,South America,-33.4489,-70.6693,Raw Materials,11,74,225000,47,Net45
+SUP024,NetherlandsHub BV,Netherlands,Europe,52.3702,4.8952,Logistics,21,91,315000,20,Net30
+SUP025,SwissQuality AG,Switzerland,Europe,47.3769,8.5417,Components,28,96,410000,22,Net45
+SUP026,SwedenTech AB,Sweden,Europe,59.3293,18.0686,Manufacturing,15,84,340000,26,Net45
+SUP027,BelgiumParts BVBA,Belgium,Europe,50.8503,4.3517,Components,13,79,295000,29,Net30
+SUP028,ArgentinaMaterials,Argentina,South America,-34.6037,-58.3816,Raw Materials,7,64,165000,51,Net45
+SUP029,PhilippinesSupply,Philippines,Asia,14.5995,120.9842,Manufacturing,6,61,200000,45,Net30
+SUP030,CzechComponents sro,Czech Republic,Europe,50.0755,14.4378,Components,10,77,275000,32,Net30
+SUP031,PortugalLogistics Lda,Portugal,Europe,38.7223,-9.1393,Logistics,9,72,185000,33,Net30
+SUP032,NewZealandSupply Ltd,New Zealand,Oceania,-36.8485,174.7633,Raw Materials,11,76,210000,41,Net45
+SUP033,DenmarkTech ApS,Denmark,Europe,55.6761,12.5683,Components,16,85,330000,24,Net45
+SUP034,NorwayMaterials AS,Norway,Europe,59.9139,10.7522,Raw Materials,14,81,245000,29,Net45
+SUP035,FinlandComponents Oy,Finland,Europe,60.1699,24.9384,Components,12,80,285000,27,Net45
+SUP036,AustriaSupply GmbH,Austria,Europe,48.2082,16.3738,Manufacturing,13,78,270000,30,Net30
+SUP037,IrelandParts Ltd,Ireland,Europe,53.3498,-6.2603,Components,10,75,240000,28,Net30
+SUP038,IsraelTech Ltd,Israel,Asia,32.0853,34.7818,Components,15,83,305000,31,Net45
+SUP039,UAELogistics LLC,United Arab Emirates,Asia,25.2048,55.2708,Logistics,8,74,220000,36,Net30
+SUP040,SaudiSupply Co,Saudi Arabia,Asia,24.7136,46.6753,Raw Materials,9,68,190000,43,Net45
+SUP041,EgyptMaterials Ltd,Egypt,Africa,30.0444,31.2357,Raw Materials,7,62,155000,49,Net30
+SUP042,MoroccoSupply SARL,Morocco,Africa,33.5731,-7.5898,Manufacturing,6,64,170000,47,Net30
+SUP043,KenyaLogistics Ltd,Kenya,Africa,-1.2921,36.8219,Logistics,5,60,145000,52,Net30
+SUP044,NigeriaSupply Ltd,Nigeria,Africa,6.5244,3.3792,Raw Materials,6,59,160000,54,Net30
+SUP045,ColombiaResources,Colombia,South America,4.7110,-74.0721,Raw Materials,8,67,195000,48,Net45
+SUP046,PeruMaterials SAC,Peru,South America,-12.0464,-77.0428,Raw Materials,7,65,175000,50,Net45
+SUP047,EcuadorSupply SA,Ecuador,South America,-0.1807,-78.4678,Manufacturing,5,61,158000,51,Net30
+SUP048,UruguayParts SA,Uruguay,South America,-34.9011,-56.1645,Components,9,70,215000,44,Net45
+SUP049,ParaguaySupply SRL,Paraguay,South America,-25.2637,-57.5759,Raw Materials,6,63,148000,53,Net30
+SUP050,CostaRicaParts SA,Costa Rica,North America,9.9281,-84.0907,Manufacturing,8,69,185000,39,Net30
+SUP051,PanamaLogistics SA,Panama,North America,8.9824,-79.5199,Logistics,7,68,172000,37,Net30
+SUP052,DominicanSupply SRL,Dominican Republic,North America,18.4861,-69.9312,Manufacturing,6,64,162000,42,Net30
+SUP053,PuertoRicoParts Inc,Puerto Rico,North America,18.4655,-66.1057,Components,11,73,228000,35,Net30
+SUP054,HongKongTrading Ltd,Hong Kong,Asia,22.3193,114.1694,Logistics,18,86,298000,26,Net45
+SUP055,TaiwanComponents Ltd,Taiwan,Asia,25.0330,121.5654,Components,19,88,365000,25,Net45
+SUP056,BangladeshTextile Ltd,Bangladesh,Asia,23.8103,90.4125,Manufacturing,5,57,142000,48,Net30
+SUP057,PakistanSupply Pvt,Pakistan,Asia,33.6844,73.0479,Raw Materials,6,60,165000,49,Net30
+SUP058,SriLankaManufacture,Sri Lanka,Asia,6.9271,79.8612,Manufacturing,7,63,178000,46,Net30
+SUP059,MyanmarSupply Ltd,Myanmar,Asia,16.8661,96.1951,Raw Materials,4,55,138000,55,Net30
+SUP060,CambodiaTextile Ltd,Cambodia,Asia,11.5564,104.9282,Manufacturing,5,58,152000,50,Net30
+SUP061,LaosSupply Co,Laos,Asia,17.9757,102.6331,Raw Materials,4,56,135000,54,Net30
+SUP062,MongoliaResources,Mongolia,Asia,47.8864,106.9057,Raw Materials,6,61,168000,51,Net45
+SUP063,KazakhstanSupply LLP,Kazakhstan,Asia,51.1694,71.4491,Raw Materials,8,66,188000,47,Net45
+SUP064,UzbekistanTextile,Uzbekistan,Asia,41.2995,69.2401,Manufacturing,6,62,163000,49,Net30
+SUP065,HungaryComponents Kft,Hungary,Europe,47.4979,19.0402,Components,11,76,252000,31,Net30
+SUP066,RomaniaManufacture SRL,Romania,Europe,44.4268,26.1025,Manufacturing,9,71,232000,35,Net30
+SUP067,BulgariaSupply Ltd,Bulgaria,Europe,42.6977,23.3219,Raw Materials,7,68,192000,38,Net30
+SUP068,CroatiaParts doo,Croatia,Europe,45.8150,15.9819,Components,8,72,218000,33,Net30
+SUP069,SerbiaSupply doo,Serbia,Europe,44.7866,20.4489,Manufacturing,7,69,198000,36,Net30
+SUP070,SloveniaParts doo,Slovenia,Europe,46.0569,14.5058,Components,10,74,235000,32,Net30
+SUP071,SlovakiaComponents sro,Slovakia,Europe,48.1486,17.1077,Components,9,73,225000,33,Net30
+SUP072,EstoniaSupply OÜ,Estonia,Europe,59.4370,24.7536,Manufacturing,8,72,208000,34,Net30
+SUP073,LatviaComponents SIA,Latvia,Europe,56.9496,24.1052,Components,8,71,215000,34,Net30
+SUP074,LithuaniaParts UAB,Lithuania,Europe,54.6872,25.2797,Components,9,73,228000,33,Net30
+SUP075,GreeceMaterials SA,Greece,Europe,37.9838,23.7275,Raw Materials,10,72,238000,36,Net45
+SUP076,CyprusLogistics Ltd,Cyprus,Europe,35.1264,33.4299,Logistics,8,70,182000,35,Net30
+SUP077,MaltaSupply Ltd,Malta,Europe,35.8989,14.5146,Manufacturing,7,68,175000,37,Net30
+SUP078,IcelandMaterials ehf,Iceland,Europe,64.1466,-21.9426,Raw Materials,9,74,205000,40,Net45
+SUP079,LuxembourgParts SA,Luxembourg,Europe,49.6116,6.1319,Components,12,79,268000,28,Net45
+SUP080,LiechtensteinSupply,Liechtenstein,Europe,47.1660,9.5554,Components,11,78,248000,29,Net45
+SUP081,AlbaniaSupply Sh.p.k,Albania,Europe,41.3275,19.8187,Manufacturing,6,65,168000,39,Net30
+SUP082,MacedoniaComponents,North Macedonia,Europe,41.9973,21.4280,Components,7,67,188000,37,Net30
+SUP083,BosniaSupply doo,Bosnia and Herzegovina,Europe,43.8564,18.4131,Raw Materials,6,64,172000,40,Net30
+SUP084,MontenegroMaterials,Montenegro,Europe,42.4304,19.2594,Raw Materials,5,63,158000,41,Net30
+SUP085,MoldovaComponents SRL,Moldova,Europe,47.0105,28.8638,Components,6,66,178000,38,Net30
+SUP086,GeorgiaSupply LLC,Georgia,Asia,41.7151,44.8271,Manufacturing,7,68,192000,42,Net30
+SUP087,ArmeniaComponents LLC,Armenia,Asia,40.1792,44.4991,Components,6,67,185000,40,Net30
+SUP088,AzerbaijanSupply MMC,Azerbaijan,Asia,40.4093,49.8671,Raw Materials,7,66,188000,43,Net45
+SUP089,BelarusComponents UP,Belarus,Europe,53.9045,27.5615,Components,8,70,212000,36,Net30
+SUP090,UkraineSupply TOV,Ukraine,Europe,50.4501,30.5234,Manufacturing,9,71,225000,37,Net30
+SUP091,RussiaComponents OOO,Russia,Europe,55.7558,37.6173,Components,12,75,285000,39,Net45
+SUP092,IranMaterials Co,Iran,Asia,35.6892,51.3890,Raw Materials,8,65,195000,45,Net45
+SUP093,IraqSupply Ltd,Iraq,Asia,33.3128,44.3615,Raw Materials,5,58,152000,52,Net30
+SUP094,JordanComponents Ltd,Jordan,Asia,31.9454,35.9284,Components,7,66,182000,41,Net30
+SUP095,LebanonSupply SARL,Lebanon,Asia,33.8886,35.4955,Manufacturing,6,64,168000,43,Net30
+SUP096,OmanLogistics LLC,Oman,Asia,23.5880,58.3829,Logistics,8,69,198000,38,Net30
+SUP097,QatarSupply WLL,Qatar,Asia,25.2854,51.5310,Raw Materials,9,72,218000,37,Net45
+SUP098,KuwaitComponents Co,Kuwait,Asia,29.3117,47.4818,Components,10,73,238000,36,Net45
+SUP099,BahrainSupply BSC,Bahrain,Asia,26.0667,50.5577,Manufacturing,8,70,205000,38,Net30
+SUP100,YemenSupply Ltd,Yemen,Asia,15.5527,48.5164,Raw Materials,4,54,128000,56,Net30
